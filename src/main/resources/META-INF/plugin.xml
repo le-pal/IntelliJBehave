@@ -54,7 +54,7 @@
 
     <idea-version since-build="145.258"/>
 
-    <depends>com.intellij.modules.java</depends>
+    <depends>com.intellij.java</depends>
     <depends optional="true">org.jetbrains.kotlin</depends>
 
     <application-components>
