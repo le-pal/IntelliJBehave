@@ -14,6 +14,7 @@ Most of the original code has been retained, but several improvements have been 
 * https://github.com/harley84
 * https://github.com/RodrigoQuesadaDev
 * https://github.com/JenoDK
+* https://github.com/witspirit
     
 Features
 --------
